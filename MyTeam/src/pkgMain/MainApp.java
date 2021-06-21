@@ -13,6 +13,9 @@ public class MainApp {
 		
 		player = new Player(5, "Alaba", "Defense");
 		System.out.println("==" + player);
+		
+		player = new Player(11, "Arnautovic", "Striker");
+		System.out.println("==" + player);
 
 	}
 
