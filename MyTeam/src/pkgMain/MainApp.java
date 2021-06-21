@@ -1,7 +1,6 @@
 package pkgMain;
 
 import pkgData.Player;
-https://github.com/GianlucaMarinari/MyTeam/blob/master/MyTeam/src/pkgMain/MainApp.java
 public class MainApp {
 
 	public static void main(String[] args) {
