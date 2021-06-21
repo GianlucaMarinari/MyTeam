@@ -1,7 +1,7 @@
 package pkgMain;
 
 import pkgData.Player;
-https://github.com/GianlucaMarinari/MyTeam/blob/master/MyTeam/src/pkgMain/MainApp.java
+
 public class MainApp {
 
 	public static void main(String[] args) {
@@ -12,6 +12,8 @@ public class MainApp {
 		Player player2 = new Player(4, "Hinteregger", "Defense");
 		System.out.println("==" + player2);
 		
+		player = new Player(10, "Kalajdzic", "striker");
+		System.out.println("==" + player);
 
 	}
 
